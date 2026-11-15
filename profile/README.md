@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mookie-studio/.github/main/profile/logo.png" alt="mookie studio" width="120" />
+<img src="https://raw.githubusercontent.com/mookie-studio/.github/main/profile/avatar-500.png" alt="mookie studio" width="120" />
 
 # mookie studio
 
