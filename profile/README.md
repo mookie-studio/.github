@@ -14,13 +14,13 @@ We maintain two products, each with its own repositories.
 
 **Entry Hub** is a multi-tenant room booking platform: an API plus a web front-end that lets organizations manage rooms, equipment and reservations. The current release, **v1.0.0**, is a working demo. It is also the companion code for the blog series at [mookiefumi.github.io](https://mookiefumi.github.io).
 
-**Catalog** is a generic multi-tenant product catalog: an admin back office to manage products and a public storefront to browse them.
+**Just Looking** is a generic multi-tenant product catalog: an admin back office to manage products and a public catalog to browse them. It shows products; it does not sell them.
 
 | Repository | What it is | Stack |
 | --- | --- | --- |
 | [`entry-hub`](https://github.com/mookie-studio/entry-hub) | Room booking demo for .NET 10: Minimal APIs, EF Core and PostgreSQL, orchestrated with Aspire and deployed to Kubernetes | .NET, PostgreSQL (Supabase), Supabase Auth |
 | [`entry-hub-frontend`](https://github.com/mookie-studio/entry-hub-frontend) | React front-end of Entry Hub | React, Base UI (MIT), Tailwind CSS, Cloudflare Pages |
-| [`catalog`](https://github.com/mookie-studio/catalog) | Generic multi-tenant product catalog: .NET 10 Minimal API and React SPA | .NET 10, React (Vite, TypeScript), Tailwind CSS, shadcn/ui |
+| [`just-looking`](https://github.com/mookie-studio/just-looking) | Generic multi-tenant product catalog: .NET 10 Minimal API and React SPA | .NET 10, React (Vite, TypeScript), Tailwind CSS, shadcn/ui |
 
 ## How we work
 
